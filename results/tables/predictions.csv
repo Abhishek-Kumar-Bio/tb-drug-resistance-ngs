@@ -1,0 +1,13 @@
+sample,group,RIF_lab,RIF_pred,RIF_mutations,INH_lab,INH_pred,INH_mutations
+site.10.subj.YA00014449.lab.YA00014449.iso.1,MDR,R,R,rpoB_S450L,R,R,fabG1_c.-15C>T
+site.04.subj.01347.lab.725805.iso.1,MDR,R,S,,R,S,
+site.03.subj.DR-288.lab.IML-01191.iso.1,MDR,R,R,rpoB_S450L,R,R,fabG1_c.-8T>C;katG_S315T
+site.02.subj.0095.lab.22A047.iso.1,MDR,R,R,rpoB_S450L,R,R,katG_indel_codon124
+site.04.subj.01315.lab.724398.iso.1,MDR,R,R,rpoB_S450L,R,R,katG_S315T
+site.03.subj.DR-69.lab.IML-01106.iso.1,MDR,R,R,rpoB_S450L,R,R,katG_S315T
+site.10.subj.YA00197608.lab.YA00197608.iso.1,INH-mono,S,S,,R,S,
+site.05.subj.CA-0036.lab.CO-06158-18.iso.1,INH-mono,S,S,,R,S,
+site.03.subj.GB-00830046.lab.IML-02361.iso.1,susceptible,S,S,,S,S,
+site.06.subj.RLH_0075-15R.lab.06MIL0024.iso.1,susceptible,S,S,,S,S,
+site.06.subj.06TB_1066.lab.06MIL2186.iso.1,susceptible,S,S,,S,S,
+site.05.subj.PTAN-0359.lab.TAN-425.iso.1,susceptible,S,S,,S,S,
